@@ -19,7 +19,6 @@ In order to get Netlify-CMS working with Azure DevOps, you need a `tenantId` and
     repo: organization/project/repo # replace with actual path
     tenant_id: tenantId # replace with your tenantId
     app_id: appId # replace with your appId
-    api_version: '6.0' # or '5.1`
 ```
 
 #### Troubleshooting Tips:
